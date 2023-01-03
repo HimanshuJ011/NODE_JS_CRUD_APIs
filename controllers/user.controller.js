@@ -91,7 +91,8 @@ exports.signUp = async (req,res) =>{
  }
 
 };
-//--------------Fetching DATA From DATABASE-----------
+
+//--------------Fetching DATA From DATABASE------------
 
 // exports.fetchData = async (req,res)=>{
 //     const userData = await userModel.find();
